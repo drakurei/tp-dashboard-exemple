@@ -16,3 +16,11 @@ Tableau de bord de tâches réalisé avec **React**, **Vite** et **React Bootstr
 npm install
 npm run dev
 ```
+
+## Déploiement
+
+Le site est déployé sur GitHub Pages : https://drakurei.github.io/tp-dashboard-exemple/
+
+```bash
+npm run deploy
+```
